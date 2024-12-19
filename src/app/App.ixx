@@ -1,4 +1,4 @@
-export module App;
+export module app.App;
 
 #include <raylib.h>
 
